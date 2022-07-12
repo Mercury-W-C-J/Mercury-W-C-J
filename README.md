@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mercury-W-C-J
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning basic machine learning alogrithms and optimization.
+- 👀 I’m interested in algorithms and models.
+- 🌱 I’m currently learning basic machine learning models and optimization.
 - 💞️ I’m looking to collaborate on all kinds of data science contests.
 - 📫 How to reach me feel free to contact me via chatbox.
 
