@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Mercury-W-C-J
-- 👀 I’m interested in algorithms and models.
-- 🌱 I’m currently learning basic machine learning models and optimization.
-- 💞️ I’m looking to collaborate on all kinds of data science contests.
-- 📫 How to reach me feel free to contact me via chatbox.
+- 👀 I’m interested in Deep Learning especially LLM.
+- 🌱 I’m currently learning machine learning system and deep learning models in Cornell Tech.
 
 <!---
 Mercury-W-C-J/Mercury-W-C-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
